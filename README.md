@@ -5,14 +5,14 @@ A placeholder text generator with meows
 ## Installation
 
 ```
-gem install meowify
+gem install meowipsum
 ```
 
 ---
 ## Gemfile
 
 ```
-gem 'meowify'
+gem 'meowipsum'
 ```
 
 ---
@@ -20,9 +20,9 @@ gem 'meowify'
 
 Each method takes an optional string length to be returned. If omitted, a default of 100 characters will be returned.
 
-`Meowify.generate` => `meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow`
+`meowipsum.generate` => `meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow meow`
 
-`Meowify.generate_emoji(150)` => `🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱`
+`meowipsum.generate_emoji(150)` => `🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱 🐱`
 
 
 ---
